@@ -1,4 +1,4 @@
-cat README.md# Job Market Intelligence Pipeline
+# Job Market Intelligence Pipeline
 
 ## Overview
 
